@@ -340,6 +340,8 @@
 	.article-x, .error-head, .heading, .logo-txt, .strong {
 		color: #dfdfdf;
 		text-shadow: #383838 0.075em 0.075em; }
+	.level, .shade {
+		color: #f4f2d4; }
 	.project-img use {
 		fill: #dfdfdf; }
 }
