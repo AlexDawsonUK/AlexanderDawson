@@ -82,7 +82,7 @@
 	.copyright:before {
 		content: '\00a9'; }
 	.copyright:hover span:before {
-		content: '2007 - '; }
+		content: '1998 - '; }
 	.group {
 		content-visibility: auto; }
 	.copyright:before, .copyright:hover span {
