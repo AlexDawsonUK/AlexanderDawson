@@ -24,7 +24,7 @@
 }
 @media screen {
 	::selection { background-color: #333333; color: #f4f2d4; }
-	.hide, .screenReader { height: 1px; left: -1000px; overflow: hidden; position: absolute; top: -1px; width: 1px; }
+	.hide, .screenReader, summary::-webkit-details-marker { height: 1px; left: -1000px; overflow: hidden; position: absolute; top: -1px; width: 1px; }
 	.t_show:target { height: auto; left: auto; overflow: auto; position: static; top: auto; width: auto; }
 	.client, .copyright, .data-subset, .defined, .defined-title, .link-align, .link-url, .social-link {
 		align-items: center; }
@@ -176,7 +176,7 @@
 	.details, .logo {
 		max-width: 650px; }
 	.error, .footer, .headline, .section {
-		max-width: 965px; }
+		max-width: 980px; }
 	.section {
 		overflow: hidden; }
 	.brand-space {
