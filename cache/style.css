@@ -26,7 +26,7 @@
 	::selection { background-color: #333333; color: #f4f2d4; }
 	.hide, .screenReader, summary::-webkit-details-marker { height: 1px; left: -1000px; overflow: hidden; position: absolute; top: -1px; width: 1px; }
 	.t_show:target { height: auto; left: auto; overflow: auto; position: static; top: auto; width: auto; }
-	.client, .copyright, .data-subset, .defined, .defined-title, .link-align, .link-url, .social-link {
+	.client, .copyright, .defined, .defined-title, .link-align, .link-url, .social-link {
 		align-items: center; }
 	.copyright, .logo-img, .section, .social-item, .t_show:target {
 		animation-duration: 1s; }
@@ -87,15 +87,9 @@
 		content-visibility: auto; }
 	.copyright:before, .copyright:hover span {
 		cursor: text; }
-	.data-subset {
-		cursor: default;
-		padding-left: 1.2em;
-		margin-bottom: 0.2em;
-		margin-top: 0.2em;
-		padding-right: 1.2em; }
 	.link-project, .logo, .logo-img {
 		display: block; }
-	.align, .article-item, .articles, .awards, .client, .clients, .copyright, .data-content, .data-subset, .defined-list, .defined-title, .footer, .link-align, .link-url, .profile, .projects, .social, .social-link {
+	.align, .article-item, .articles, .awards, .client, .clients, .copyright, .data-content, .defined-list, .defined-title, .footer, .link-align, .link-url, .profile, .projects, .social, .social-link {
 		display: flex; }
 	.defined {
 		display: grid;
