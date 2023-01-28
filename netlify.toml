@@ -1,4 +1,0 @@
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Security-Policy = "default-src 'self'; script-src 'sha256-IDvs7Wnm6IiLf21MmKpsYnyQMIRE1a4MXG4b7OZJROc=' 'strict-dynamic';"
