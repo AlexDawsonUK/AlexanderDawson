@@ -49,7 +49,11 @@
 	<body class="body">
 		<header>
 			<a class="logo" href="index.html">
-				<img alt="Logo" class="logo-img" src="apple-touch-icon.png" height="180px" width="180px" fetchpriority="high">
+				<picture>
+					<source media="(max-width: 180px)" srcset="apple-touch-icon.png" />
+					<source media="(min-width: 512px)" srcset="images/droidx512.png" />
+					<img alt="Logo" class="logo-img" src="apple-touch-icon.png" height="180px" width="180px" fetchpriority="high">
+				</picture>
 				<h1 class="logo-txt">Alexander Dawson</h1>
 			</a>
 			<details class="info">
