@@ -19,7 +19,7 @@
 - rss.xml, atom.xml & feed.json for syndication.
 - vcard.vcf File with Contact information for clients.
 - sitemap.xml File with page listings and IA for site.
-- script.js File with Service Worker & linted, minified JavaScript.
+- script.js File with linted, minified JavaScript.
 
 ## [Guide]
 - Added: New features.
