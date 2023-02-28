@@ -1,7 +1,8 @@
 {
 	"short_name": "Alex Dawson",
 	"name": "Alexander Dawson",
-	"description": "Alex is a Brighton (UK) based freelancer who designs and develops websites and products; and authors content for well-known publications.",
+	"start_url": "https://alexanderdawson.com",
+	"description": "A UK based Web developer, researcher and writer; Alexander Dawson specializes in Web sustainability, Inclusive design, and front-end performance.",
 	"icons": [
 		{
 			"src": "images/droidx192.png",
