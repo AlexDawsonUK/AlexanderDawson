@@ -194,13 +194,13 @@
 		padding-left: 0.2em; }
 	.award-item {
 		padding-left: 0.5em; }
-	.awards, .data-list, .defined-list, .link-url, .profile, .social-link {
+	.awards, .data-list, .defined-list, .details, .link-url, .profile, .social-link {
 		padding-left: 1em; }
 	.spacing {
 		padding-right: 0.3em; }
 	.award-item, .client-img, .community-img, .content-img, .copyright:before, .social-img {
 		padding-right: 0.5em; }
-	.awards, .data-list, .link-url, .profile, .project-img, .social-link {
+	.awards, .data-list, .details, .link-url, .profile, .project-img, .social-link {
 		padding-right: 1em; }
 	.articles, .award, .details, .error-head, .error-sub, .error-txt, .heading, .headline, .logo-txt, .profile, .social, .subheading {
 		text-align: center; }
@@ -269,7 +269,7 @@
 @media screen and (max-width: 800px) {
 	.headline {
 		font-size: 1em;
-		max-width: 610px; }
+		padding: 0.5em 1em; }
 	.logo-txt {
 		font-size: 3em; }
 	.logo {
