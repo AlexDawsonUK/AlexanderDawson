@@ -109,7 +109,7 @@
 		justify-content: space-evenly; }
 	.client-img, .community-img, .content-svg, .social-img {
 		float: left; }
-	.article-title, .article-x, .brand, .client, .copyright, .defined-title, .defined-item, .details, .error-head, .error-sub, .error-txt, .heading, .level,.logo-txt, .scribe, .social-link, .subheading {
+	.article-title, .article-x, .brand, .client, .copyright, .defined-title, .defined-item, .details, .error-head, .error-sub, .error-txt, .heading, .headline, .level,.logo-txt, .scribe, .social-link, .subheading {
 		font-family: 'Geomanist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
 	.emoji {
 		font-family: 'Twemoji Mozilla', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji', 'EmojiOne Color', 'Android Emoji', sans-serif;
@@ -210,12 +210,6 @@
 		text-shadow: #ffffff 0.075em 0.075em; }
 	.link-project {
 		width: 16em; }
-}
-@media screen {
-	/* Fixes Safari Emoji -apple-system */
-	.headline {
-		font-display: swap;
-		font-family: 'Geomanist', 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
 }
 @keyframes fadeIn {
 	from { opacity: 0; }
