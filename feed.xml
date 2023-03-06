@@ -3,8 +3,14 @@
 	<title>Alexander Dawson</title>
 	<id>https://alexanderdawson.com/</id>
 	<subtitle>All the latest news and releases from Alexander Dawson</subtitle>
-	<updated>2023-02-01</updated>
+	<updated>2023-03-03</updated>
 	<link rel="self" href="https://domain.com/atom.xml" type="application/atom+xml" />
+	<entry>
+		<title>Printed Launched!</title>
+		<updated>2023-03-03</updated>
+		<id>https://printedcss.com/</id>
+		<content type="html"><p>Print-friendly stylesheets have been around for almost as long as CSS. The idea of making your website look as good on paper as they do on the Web isn't a new idea. It isn't a new idea either to target a printer to ensure your website uses the least amount of paper and ink as possible (removing stuff that isn't required). My new CSS library takes the collective wisdom of previous libraries, extends upon them and provides useful semantic hooks and classes (plus additional new features), to make your pages as eco-friendly as possible.</p></content>
+	</entry>
 	<entry>
 		<title>Website Sustainability Launched!</title>
 		<updated>2023-02-01</updated>
