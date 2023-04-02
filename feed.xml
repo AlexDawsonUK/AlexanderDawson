@@ -6,6 +6,12 @@
 	<updated>2023-03-03</updated>
 	<link rel="self" href="https://domain.com/atom.xml" type="application/atom+xml" />
 	<entry>
+		<title>Syntaxonomy Launched!</title>
+		<updated>2023-04-02</updated>
+		<id>https://syntaxonomy.com/</id>
+		<content type="html"><p>The word Syntaxonomy is to bridge a collection (taxonomy) of languages (syntax). In this instance this website is the cumulative assortment of useful links and articles I have found over 20+ years of Web Development. Consider these the must-reads, the insightful philosophies, and the fundamentals. All have been stacked into categories based upon the order you might learn about them through your career.</p></content>
+	</entry>
+	<entry>
 		<title>Printed Launched!</title>
 		<updated>2023-03-03</updated>
 		<id>https://printedcss.com/</id>
