@@ -6,6 +6,12 @@
 	<updated>2023-03-03</updated>
 	<link rel="self" href="https://domain.com/atom.xml" type="application/atom+xml" />
 	<entry>
+		<title>Semantic Web Hook Launched!</title>
+		<updated>2023-07-01</updated>
+		<id>https://swhook.com/</id>
+		<content type="html"><p>SWHook is a simple, dependency free Microdata JavaScript framework. It turns semantic information embedded within the page into useful functionality for end-users. Once added to a website, this automated library will sniff markup on the fly for compatible microdata and transform it into a useful browser-based format for your visitors. This library adds no bloat, it just enhances what's there on the Semantic Web!</p></content>
+	</entry>
+	<entry>
 		<title>Syntaxonomy Launched!</title>
 		<updated>2023-04-02</updated>
 		<id>https://syntaxonomy.com/</id>
