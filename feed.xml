@@ -6,6 +6,12 @@
 	<updated>2023-03-03</updated>
 	<link rel="self" href="https://domain.com/atom.xml" type="application/atom+xml" />
 	<entry>
+		<title>Gratis Library Launched!</title>
+		<updated>2023-09-01</updated>
+		<id>https://gratislibrary.com/</id>
+		<content type="html"><p>Web designers and developers are always giving back to the community. Two methods they do so are through the educational means of providing eBooks and podcasts as a source of learning material and inspiration. Because there are so many great free resources out there, I've taken the time to currate them into a library, exclusively aimed at Web workers.</p></content>
+	</entry>
+	<entry>
 		<title>Medica11y Launched!</title>
 		<updated>2023-07-01</updated>
 		<id>https://medica11y.com/</id>
