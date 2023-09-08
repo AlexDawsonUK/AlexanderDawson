@@ -6,6 +6,13 @@
 	<updated>2023-03-03</updated>
 	<link rel="self" href="https://domain.com/atom.xml" type="application/atom+xml" />
 	<entry>
+		<title>Web Sustainability Guidelines Launched!</title>
+		<updated>2023-09-08</updated>
+		<id>https://w3c.github.io/sustyweb/</id>
+		<content type="html"><p>The Sustainable Web Design Community Group is a collection of likeminded individuals from a variety of backgrounds with a passion for Sustainability. Our goal has been to establish a set of formal guidelines (similar to the Web Content Accessibility Guidelines) to help end-users, Web workers, stakeholders, educators, and policy makers, improve the environmental footprint of their products and services. After close to two years of collaboration, we have finally published the first public draft of our specification.</p>
+		<p>You can learn more about our goals by viewing the <a href="https://w3c.github.io/sustyweb/TPAC_Slides.pdf">presentation</a> we will be giving at the 2023 W3C TPAC conference.</p></content>
+	</entry>
+	<entry>
 		<title>Gratis Library Launched!</title>
 		<updated>2023-09-01</updated>
 		<id>https://gratislibrary.com/</id>
