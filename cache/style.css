@@ -69,6 +69,12 @@
 	.headline:hover, .link-url:hover, .social-link:hover {
 		border-color: #666666;
 		box-shadow: 0.2em 0.2em 0.2em #aaaaaa; }
+	.link-inactive {
+		cursor: default;
+		transition-property: none; }
+	.link-inactive:hover {
+		border-color: #ffffff;
+		box-shadow: none; }
 	.error, .headline, .link-url, .section, .social-link {
 		border-radius: 2em; }
 	.logo-img {
