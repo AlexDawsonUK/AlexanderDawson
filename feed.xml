@@ -6,6 +6,12 @@
 	<updated>2023-03-03</updated>
 	<link rel="self" href="https://domain.com/atom.xml" type="application/atom+xml" />
 	<entry>
+		<title>Asset Config Launched!</title>
+		<updated>2023-10-01</updated>
+		<id>https://assetconfig.com/</id>
+		<content type="html"><p>There are many tiny but useful files which make up a website. These assets range from plaintext, XML, JSON, and even include images. Including them within your website can improve the user-experience or even your SEO. This tool will generate the code you need (based on your option choices) for your website, ready to drop into an empty document.</p></content>
+	</entry>
+	<entry>
 		<title>Web Sustainability Guidelines Launched!</title>
 		<updated>2023-09-08</updated>
 		<id>https://w3c.github.io/sustyweb/</id>
