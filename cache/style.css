@@ -224,6 +224,13 @@
 	.link-project {
 		width: 16em; }
 }
+@media screen {
+	/* iOS Text Size Fix */
+	html {
+		-moz-text-size-adjust: none;
+		-webkit-text-size-adjust: none;
+		text-size-adjust: none; }
+}
 @keyframes fadeIn {
 	from { opacity: 0; }
     to { opacity: 1; }
