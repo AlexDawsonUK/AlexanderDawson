@@ -113,6 +113,8 @@
 	.social {
 		flex-basis: 80%;
 		justify-content: space-between; }
+	.profile .data-content {
+		flex-direction: column; }
 	.article-item {
 		flex-direction: column-reverse; }
 	.articles, .awards, .clients, .defined-list, .profile, .project, .projects {
