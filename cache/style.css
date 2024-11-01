@@ -106,10 +106,8 @@
 		padding: 0 2.2em; }
 	.info > summary {
 		list-style: none; }
-	.article, .client {
+	.article, .client, .community {
 		flex-basis: 33.33%; }
-	.community {
-		flex-basis: 50%; }
 	.social {
 		flex-basis: 80%;
 		justify-content: space-between; }
@@ -262,10 +260,8 @@
 		border-radius: 0; }
 	.footer {
 		display: block; }
-	.client {
+	.community, .client {
 		flex-basis: 50%; }
-	.community {
-		flex-basis: 100%; }
 	.defined {
 		grid-template-columns: 100%; }
 	.copyright {
