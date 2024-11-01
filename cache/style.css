@@ -174,14 +174,10 @@
 		margin-right: auto; }
 	.article-x, .brand, .definer, .level, .scribe {
 		margin-left: 0; }
-	.client-img, .community-img, .content-img, .social-img {
-		margin-top: -0.25em; }
 	.client, .data-content, .error-sub, .logo-txt, .social {
 		margin-top: 0; }
 	.article-item, .award-item, .error-head {
 		margin-top: 0.5em; }
-	.community-img, .content-img, .social-img {
-		margin-top: 0.6em; }
 	.info {
 		margin-top: 1em; }
 	.gap {
@@ -194,14 +190,14 @@
 		overflow: hidden; }
 	.brand-space {
 		padding-bottom: 0.2em; }
-	.client {
-		padding: 0.75em 0; }
+	.client, .defined-title, .definer, .link-url, .social-link {
+		padding: 0.5em 0; }
 	.project {
 		padding: 1em 0; }
 	.defined-item .section {
 		padding: 1.2em 0; }
-	.community-img, .content-img, .social-img {
-		padding-bottom: 0.75em; }
+	.articles, .profile {
+		padding-bottom: 1em; }
 	.articles, .awards, .clients, .projects, .social, .specialisms {
 		padding-left: 0; }
 	.emoji {
