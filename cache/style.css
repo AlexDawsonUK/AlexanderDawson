@@ -118,8 +118,6 @@
 	.articles, .awards, .clients, .defined-list, .profile, .project, .projects {
 		flex-flow: wrap;
 		justify-content: space-evenly; }
-	.client-img, .community-img, .content-svg, .social-img {
-		float: left; }
 	.article-title, .article-x, .brand, .client, .copyright, .defined-title, .defined-item, .details, .error-head, .error-sub, .error-txt, .heading, .headline, .level,.logo-txt, .scribe, .social-link, .subheading {
 		font-family: 'Geomanist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
 	.emoji {
@@ -172,6 +170,8 @@
 		margin-right: auto; }
 	.article-x, .brand, .definer, .level, .scribe {
 		margin-left: 0; }
+	.client-img, .community-img, .content-img, .content-svg, .social-img {
+		margin-top: -0.2em; }
 	.client, .data-content, .error-sub, .logo-txt, .social {
 		margin-top: 0; }
 	.article-item, .award-item, .error-head {
@@ -213,6 +213,8 @@
 		padding-right: 0.5em; }
 	.awards, .data-list, .details, .link-url, .profile, .project-img, .social-link {
 		padding-right: 1em; }
+	.content-img {
+		padding-top: 0.2em; }
 	.articles, .award, .details, .error-head, .error-sub, .error-txt, .heading, .headline, .logo-txt, .profile, .social, .subheading {
 		text-align: center; }
 	.abbr, .link-url, .logo, .social-link {
