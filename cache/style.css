@@ -213,7 +213,7 @@
 		padding-right: 0.5em; }
 	.awards, .data-list, .details, .link-url, .profile, .project-img, .social-link {
 		padding-right: 1em; }
-	.content-img {
+	.client-img, .community-img, .content-img, .content-svg, .social-img {
 		padding-top: 0.2em; }
 	.articles, .award, .details, .error-head, .error-sub, .error-txt, .heading, .headline, .logo-txt, .profile, .social, .subheading {
 		text-align: center; }
