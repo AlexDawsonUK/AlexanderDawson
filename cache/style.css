@@ -57,9 +57,10 @@
 		background-color: #f4f2d4; }
 	.error, .logo-img, .section {
 		background-color: #ffffff; }
-	.abbr {
+	.clients .abbr , .link-inactive .abbr {
 		border-top: 2px solid #ffffff;
-		border-bottom: 2px solid #ffffff; }
+		border-bottom: 2px solid #ffffff;
+		cursor: help; }
 	.abbr:hover {
 		border-bottom: 2px solid #666666; }
 	.headline, .link-url, .social-link {
