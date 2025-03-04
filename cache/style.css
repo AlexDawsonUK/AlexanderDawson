@@ -144,6 +144,9 @@
 	.award-img, .project-img {
 		height: 48px;
 		width: 48px; }
+	.single a {
+		height: calc(100% - 30px);
+		min-height: 57.6px; }
 	.client, .community .link-url, .social-link {
 		justify-content: center; }
 	.award-item, .details, .project {
