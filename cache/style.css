@@ -58,7 +58,7 @@
 	.error, .logo-img, .section {
 		background-color: #ffffff; }
 	.clients .abbr , .link-inactive .abbr {
-		border-top: 2px solid #ffffff;
+		border-top: 2px solid transparent;
 		border-bottom: 2px solid #ffffff;
 		cursor: help; }
 	.abbr:hover {
@@ -366,6 +366,8 @@
 		color: #f4f2d4; }
 	.project-img use {
 		fill: #a0a0a0; }
+	#icon-github path {
+		fill: #ffffff; }
 }
 @media (prefers-reduced-motion: reduce), (update: slow) {
 	*:not(.safe-animation),
