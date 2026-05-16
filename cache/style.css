@@ -67,12 +67,10 @@
 		border-color: transparent;
 		border-style: solid;
 		border-width: 0.2em;
-		transition-duration: 0.5s, 1.25s;
-		transition-property: border, box-shadow;
 		white-space: pre-wrap; }
 	.headline:hover, .link-url:hover, .social-link:hover {
 		border-color: #666666;
-		box-shadow: 0.2em 0.2em 0.2em #aaaaaa; }
+		box-shadow: 3px 3px 0 -1px #999; }
 	.link-inactive {
 		cursor: default;
 		transition-property: none; }
@@ -117,8 +115,7 @@
 	.article-item {
 		flex-direction: column-reverse; }
 	.articles, .awards, .defined-list, .profile, .project, .projects {
-		flex-flow: wrap;
-		justify-content: space-evenly; }
+		flex-flow: wrap; }
 	.article-title, .article-x, .brand, .copyright, .defined-title, .defined-item, .details, .error-head, .error-sub, .error-txt, .heading, .headline, .level,.logo-txt, .scribe, .social-link, .subheading {
 		font-family: 'Geomanist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
 	.emoji {
@@ -149,10 +146,13 @@
 		min-height: 57.6px; }
 	.community .link-url, .social-link {
 		justify-content: center; }
+	.articles, .awards, .profile, .project, .projects {
+		justify-content: space-evenly; }
 	.award-item, .details, .project {
 		line-height: 1.2; }
 	.defined-item {
-		line-height: 1.5; }
+		line-height: 1.5;
+		margin-left: 1.5em; }
 	.articles, .awards, .data-list, .profile, .projects, .social, .specialisms {
 		list-style-type: none; }
 	.c-link-align {
