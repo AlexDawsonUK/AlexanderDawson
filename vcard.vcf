@@ -1,16 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Alex Dawson's//Business Card//EN
+PRODID:-//Alexander Dawson's//Business Card//EN
 N:Dawson;Alexander;;;
 FN:Alexander Dawson
 ORG:HiTechy;
 EMAIL;type=INTERNET;type=WORK;type=pref:alex@hitechy.com
-X-SOCIALPROFILE;type=twitter:http://twitter.com/alexdawsonuk
 X-SOCIALPROFILE;type=uk.linkedin.com:http://uk.linkedin.com/in/alexdawsonuk
 item1.URL;type=pref:https://alexanderdawson.com
 item1.X-ABLabel:_$!<HomePage>!$_
-X-SKYPE;TYPE=WORK:alexdawsonuk
-IMPP;X-SERVICE-TYPE=Skype;type=WORK;type=pref:skype:alexdawsonuk
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBMRXhpZgAATU0AKgAA
  AAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAABAKADAAQAAAABAA
  ABAAAAAAD/7QA4UGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAAA4QklNBCUAAAAAABDUHYzZjwCy
