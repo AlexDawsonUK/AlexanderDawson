@@ -79,8 +79,7 @@
 	section img {
 		border-radius: 1em;
 		float: left;
-		margin: auto 1.5em;
-		shape-outside: margin-box; }
+		margin: auto 1.5em; }
 	footer a, header a > p, header img, header p, main article, section, section details[open], section details:not(:open) summary {
 		border-radius: 2em; }
 	header img {
@@ -179,7 +178,7 @@
 		line-height: 2.5; }
 	details > ul dl ul {
 		list-style-type: disc; }
-	footer ul, section details > ul, section details > ul > li > ul {
+	footer ul, section details > ul, section details > ul > li > ul, section details > summary {
 		list-style-type: none; }
 	body, footer p, footer ul , header h1, header h2 {
 		margin: unset; }
