@@ -296,9 +296,7 @@
 		background-color: unset;
 		clip-path: none;
 		margin-right: unset;
-		padding-top: 0.2em;
-		padding-bottom: 0.2em;
-		padding-right: unset; }
+		padding: 1em; }
 	section details[open] {
 		border: unset;
 		overflow: visible; }
@@ -332,7 +330,7 @@
 		padding: unset; }
 	section {
 		padding-bottom: 1.5em; }
-	details > ul svg, section details > ul dd, details ul ul, section details > dl > dd {
+	details > ul svg, details ul ul, section details > dl > dd {
 		padding-left: unset; }
 	section details > dl svg {
 		padding-left: 0.5em; }
@@ -361,7 +359,10 @@
 	section details > dl {
 		flex-direction: column; }
 	section details img {
+		display: block;
 		float: none;
+		margin-left: auto;
+  		margin-right: auto;
 		margin-bottom: unset;
 		margin-top: 1em; }
 	body {
