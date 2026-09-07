@@ -84,12 +84,13 @@
 		padding: 0.5em;
 		width: 100px; }
 	section details summary::before {
+		border-bottom: 2px solid currentColor;
 		border-right: 2px solid currentColor;
 		height: 0.5em;
 		left: 1.25em;
 		position: absolute;
 		top: 50%;
-		transform: translateY(-70%) rotate(45deg);
+		transform: translateY(-50%) rotate(-45deg);
 		transition: transform 0.15s ease;
 		width: 0.5em; }
 	footer, header p, main article, section {
@@ -239,7 +240,7 @@
 	footer a:hover, header a:hover > p, header a:hover img, footer a:focus-visible, header a:focus-visible > p, header a:focus-visible img {
 		transform: scale(1.1); }
 	section details[open] summary::before {
-		transform: translateY(-30%) rotate(225deg); }
+		transform: translateY(-50%) rotate(45deg); }
 }
 @media screen and (max-width: 1000px) {
 	header h2, header > p {
