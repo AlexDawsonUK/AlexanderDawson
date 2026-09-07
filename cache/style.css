@@ -90,7 +90,7 @@
 		left: 1.25em;
 		position: absolute;
 		top: 50%;
-		transform: translateY(-50%) rotate(-45deg);
+		transform: translateY(-55%) rotate(-45deg);
 		transition: transform 0.15s ease;
 		width: 0.5em; }
 	footer, header p, main article, section {
@@ -240,7 +240,7 @@
 	footer a:hover, header a:hover > p, header a:hover img, footer a:focus-visible, header a:focus-visible > p, header a:focus-visible img {
 		transform: scale(1.1); }
 	section details[open] summary::before {
-		transform: translateY(-50%) rotate(45deg); }
+		transform: translateY(-70%) rotate(45deg); }
 }
 @media screen and (max-width: 1000px) {
 	header h2, header > p {
