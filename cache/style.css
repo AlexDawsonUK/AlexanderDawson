@@ -99,7 +99,7 @@
 		color: currentColor; }
 	header p a, main article a, section details a, ul a {
 		color: #5123db; }
-	footer p:hover span:before, main article h2, section details summary em, ul em {
+	footer p:hover span:before, main article h2, section details summary em, ul em, p em {
 		color: #666666; }
 	section details summary::before, section details summary::marker {
 		content: ""; }
@@ -142,7 +142,7 @@
 		font-weight: 900;
 		letter-spacing: 0.02em;
 		text-shadow: #ffffff 0.075em 0.075em; }
-	main article h2, section details summary em, ul em {
+	main article h2, section details summary em, ul em, p em {
 		font-style: normal; }
 	section details > ul > li > dl > dt {
 		font-weight: inherit; }
