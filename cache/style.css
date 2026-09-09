@@ -378,7 +378,7 @@
 		background-color: #383838; }
 	header h1 {
 		text-shadow: #383838 0.075em 0.075em; }
-	header h1, header h2, header p, summary, footer, footer p:hover span::before, dt, ul em, details p, details li, dd {
+	header h1, header h2, header p, summary, footer, footer p:hover span::before, dt, ul em, details p, details li, dd, p em {
 		color: #dfdfdf; }
 	header p a, section details summary em, section details a {
 		color: #f5c344; }
