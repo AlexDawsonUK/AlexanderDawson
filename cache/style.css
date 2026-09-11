@@ -301,6 +301,9 @@
 		border-color: transparent; }
 	main article, section, footer, section details[open] summary {
 		border-radius: 0; }
+	section details:not(:open) summary {
+		border-bottom: 4px solid transparent;
+		border-top: 4px solid transparent; }
 	section details[open] summary {
 		border-bottom: 4px solid #cccccc;
 		border-top: 4px solid #cccccc; }
@@ -316,7 +319,7 @@
 	section details[open] summary, section details > ul, section details > dl, section details p {
 		margin-bottom: unset; }
 	section img, section details > ul dd {
-		margin-left: unset; }
+		margin: unset; }
 	section details > dl {
 		margin-right: unset; }
 	main article, section, footer {
@@ -366,12 +369,14 @@
 		font-size: 1em; }
 	section details li {
 		line-height: 1.2; }
+	section details dt, section details li {
+		line-height: 1.75; }
 	section details:has(img) p:first-of-type {
 		margin-top: 0.5em; }
 	section details > dl > dt {
 		padding: unset; }
 	section details li:not(:last-of-type) {
-		padding-bottom: 1.5em; }
+		padding-bottom: 1em; }
 }
 @media (prefers-color-scheme: dark) {
 	body, section details > ul dd {
